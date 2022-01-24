@@ -5,3 +5,5 @@ hej
 Korv
 
 vote lars for president
+
+Vote for elliot too as VP.
